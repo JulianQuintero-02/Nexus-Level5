@@ -4,7 +4,7 @@ Nombre del Nivel: Nivel 5 - El Núcleo de NEXUS
 
 Equipo Responsable: Team Unity 2
 
-Integrantes y responsabilidades:
+Integrantes y responsabilidades: 
 
 Michael Ocampo (Leader)
 Diseñar la habitacion del nucleo de nexus
